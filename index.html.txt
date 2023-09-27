@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <nav>
+        <a href="#">h</a>
+        <a href="#">h</a>
+        <a href="#">h</a>
+        <a href="#">h</a>
+        <a href="#">h</a>
+        </nav>
+        
+    </header>
+  <main>
+       <br><br>
+    <section id="home">
+    <section id="ant">
+    <section id="soc">
+     <ul>
+        <a href="http">
+        <li id="intes"></li>
+        </a><br>
+        <a href="http">
+        <li id="intes"></li>
+        </a><br>
+        <a href="http">
+        <li id="intes"></li>
+        </a>
+     </ul>  
+    </section>  
+    <figure>
+        <img src="http" alt="anthony">
+    </figure>  
+    <article>
+        <h3>what is </h3>
+        <p>lorem</p>
+    </article>
+    </section>
+</section>
+<footer>final</footer>
+
+
+
+  </main>  
+
+
+</body>
+</html>
